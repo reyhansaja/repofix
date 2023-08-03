@@ -1,0 +1,12 @@
+.jumbotron{
+    padding: 7rem;
+    background-image: url(../img/line.jpg);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+}
+h1{
+    font-size: 180px;
+}
+.cfd{
+    padding: 7rem;
+}
